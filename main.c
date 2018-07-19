@@ -1,6 +1,5 @@
 
 struct Eric {
-	int height;
 	int schmuckiness; //Out of 10
 
 };
